@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+12 Pin=C1-1
+Removed Pin From Net: NetName=+12 Pin=IC1-1
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=IC1-1
+Added Net: Name=VCC
+Added Class: Name=LM2596
